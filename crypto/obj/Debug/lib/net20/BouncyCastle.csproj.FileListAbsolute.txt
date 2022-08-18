@@ -1,0 +1,6 @@
+E:\bccrypto-csharp-1.9.0\crypto\bin\Debug\lib\net20\BouncyCastle.dll
+E:\bccrypto-csharp-1.9.0\crypto\bin\Debug\lib\net20\BouncyCastle.pdb
+E:\bccrypto-csharp-1.9.0\crypto\obj\Debug\lib\net20\BouncyCastle.csproj.AssemblyReference.cache
+E:\bccrypto-csharp-1.9.0\crypto\obj\Debug\lib\net20\BouncyCastle.csproj.CoreCompileInputs.cache
+E:\bccrypto-csharp-1.9.0\crypto\obj\Debug\lib\net20\BouncyCastle.dll
+E:\bccrypto-csharp-1.9.0\crypto\obj\Debug\lib\net20\BouncyCastle.pdb
